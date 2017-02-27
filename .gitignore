@@ -147,3 +147,4 @@ ENV/
 .ropeproject
 
 /auth_info
+/app_auth_data.json
