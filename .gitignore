@@ -148,3 +148,7 @@ ENV/
 
 /auth_info
 /app_auth_data.json
+/my_login_and_password.json
+my_login_and_password.json
+/groups_ids_file.json
+groups_ids_file.json
