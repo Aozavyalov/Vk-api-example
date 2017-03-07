@@ -152,3 +152,4 @@ ENV/
 my_login_and_password.json
 /groups_ids_file.json
 groups_ids_file.json
+/posts.json
